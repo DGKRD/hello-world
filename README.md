@@ -1,2 +1,5 @@
 # README FILE
-# -sdcsdc
+# Изучаем GIT!
+# -1
+# -2
+# -3
